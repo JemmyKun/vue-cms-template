@@ -1,4 +1,4 @@
-## vue-cms-tamplate
+## vue-cms-template
 
 ## Project setup
 ```
